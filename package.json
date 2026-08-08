@@ -1,0 +1,1 @@
+{"name":"accessibility-audit-evidence","private":true,"scripts":{"test":"npx playwright test --reporter=list"},"devDependencies":{"@playwright/test":"^1.40.0","@axe-core/playwright":"^4.8.4"}}
